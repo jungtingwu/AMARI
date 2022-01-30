@@ -1,2 +1,3 @@
 # AMARI
-Bababab bababa bababa dada The Off Season, let's work, heyyy
+
+A one-player GUI game. Fight off the bouncing blocks and get your new high score!
